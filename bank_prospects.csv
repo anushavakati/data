@@ -1,0 +1,12 @@
+Age,Salary,Gender,Country,Day1 purchase,CustomerID,Day2 purchase,info
+18,20000,Male,Germany,12,3427,16,$sathiya
+19,22000,Female,France,1,4378,12,\kavi
+20,24000,Female,England,6,3751,9,\kavya
+21,,Male,England,8,6899,8,\sushma
+22,50000,Male,France,9,4561,4,\anu
+23,35000,Female,England,4,2299,7,$lalitha
+24,,Male,Germany,5,553,13,$latha
+25,32000,Female,France,9,3406,10,$rani
+,35000,Male,Germany,10,5278,9,\kavitha
+27,37000,Female,France,16,2456,6,\raji
+27,37000,Female,unknown,2,6963,7,$vani
